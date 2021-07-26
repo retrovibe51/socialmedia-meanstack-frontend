@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: "http://s-media-app-deploy.herokuapp.com/api"
+  apiUrl: "https://s-media-app-deploy.herokuapp.com/api"
 };
